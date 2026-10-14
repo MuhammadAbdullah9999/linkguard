@@ -1,7 +1,8 @@
 ---
 title: "How to check if a link is safe without clicking it"
 description: "Practical steps to inspect a suspicious link, from reading the domain to using a link scanner."
-date: 2026-10-14
+date: 2026-10-12
+category: "How-To"
 ---
 Clicking is the risky part. You can learn a lot about a link without ever opening it.
 

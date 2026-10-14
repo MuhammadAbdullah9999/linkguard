@@ -2,6 +2,8 @@
 title: "Fake package delivery text: how to spot it and what to do"
 description: "That 'your package could not be delivered' text is almost always a scam. Here are the red flags and the safe way to check."
 date: 2026-10-14
+category: "Scam Alerts"
+featured: true
 ---
 You get a text: "Your package could not be delivered. Confirm your address within 24 hours to avoid return." There is a link. If you were not expecting a package, this is almost certainly smishing, which is phishing by SMS.
 

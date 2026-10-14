@@ -1,7 +1,8 @@
 ---
 title: "QR code scams (quishing): how they work and how to stay safe"
 description: "Fake QR codes on parking meters, menus and emails can send you to phishing pages. Here is how to scan safely."
-date: 2026-10-14
+date: 2026-10-10
+category: "QR & Mobile"
 ---
 A QR code is just a link in a different shape. You cannot read it with your eyes, which is exactly why scammers use it. Phishing through QR codes is called quishing.
 
