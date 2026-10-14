@@ -10,6 +10,7 @@ export const site = {
   category: 'SecurityApplication',
   themeColor: '#0b0b0b',
   ogImage: '/og.png',
+  googleVerification: '8zWGvFGRV2KgABln3kSWOlC8vQ0WccoY3fgiHfe_ZC0',
   storeUrl: P,
   deleteUrl: '',
   email: 'hafizzabdullah999@gmail.com',
